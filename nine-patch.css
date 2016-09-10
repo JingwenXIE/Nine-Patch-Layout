@@ -1,0 +1,16 @@
+#tableContainer {
+	display: 			table;
+	text-align:       	center;
+	border-spacing:		3px;
+}
+.tableRow {
+	display:			table-row;
+}
+.tableCell {
+	height:				100px;
+	width:				100px;
+	display:			table-cell;
+	border-radius:		5px;
+	margin:    			3px;
+	background-color:	orange;
+}
